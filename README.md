@@ -2,7 +2,7 @@
 
 ---
 
-# *Flow:* 
+
 | webstore        | IN Store           | mobile   |
 | ------------- |:-------------:| -----:|
 | Store credit     | Web POS | Android App |
@@ -20,7 +20,9 @@
 |  Marketplace  | Any API     | Any Software   |
 
 ---
-
+# *Flow:* 
+Order Fulfillment 
+-inventory handling >warehouse management >  **order processing** >Packing and shipping >Accept and return >order fullfilled
 
 ### 1.Why?: 
 
